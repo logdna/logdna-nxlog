@@ -9,7 +9,7 @@ Follow the steps to use NXLog for forwarding your Windows logs to LogDNA:
 ### Install NXLog
 
 * Install `NXLog Community Edition` from [here](https://nxlog.co/system/files/products/files/348/nxlog-ce-2.10.2150.msi), or
-* Run `choco install -y nxlog` on `PowerShell` (make sure choco has been installed before running this command)
+* Run `choco install -y nxlog` on `PowerShell` (make sure `choco` has been installed before running this command)
 
 ### Copy LogDNA NXLog Configuration
 
